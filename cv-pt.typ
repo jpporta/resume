@@ -46,14 +46,27 @@
   title: "Gerente Sênior de Engenharia de Software",
   location: "Texas, USA (Remoto)",
   company: "AvodahMed",
-  dates: dates-helper(start-date: "Jun 2024", end-date: "Presente"),
+  dates: dates-helper(start-date: "Ago 2023", end-date: "Presente"),
 )
 - Liderando time de 5 engenheiros para construir soluções escaláveis para a área médica
-- Projetei a arquitetura  e desenvolvi infraestrutura de microserviços usando Docker e Kubernetes para garantir escalabilidade e resiliência
-- Automatizei muitos processos internos usando agentes de IA e N8N, assim como scripts em bash e Python para CI/CD e outras pipelines
-- Foco em segurança de dados sensiveis com desenvolvimento certificado HIPAA
-- Otimizaçã́o dos serviços melhorando tempo de resposta e reduzindo custos de infraestrutura
+- Projetei a arquitetura e desenvolvi infraestrutura de microserviços usando Docker e Kubernetes para garantir escalabilidade e resiliência
+- Automatizei processos internos usando agentes de IA e N8N, além de scripts em Bash e Python para CI/CD e outras pipelines
+- Foco em segurança de dados sensíveis com desenvolvimento certificado HIPAA
+- Otimizei serviços de backend, *reduzindo o tempo médio de resposta em 3x* e reduzindo custos de infraestrutura
 - Colaborei com equipes multifuncionais para definir requisitos e entregar soluções de alta qualidade dentro do prazo em vários fusos horários
+
+#work(
+  title: "Engenheiro de Software / Tech Lead",
+  location: "Texas, USA (Remoto)",
+  company: "Block Nerds",
+  dates: dates-helper(start-date: "Ago 2022", end-date: "Ago 2023"),
+)
+- Entreguei funcionalidades full-stack em diversos produtos de clientes utilizando React, Node.js e PostgreSQL, com foco em código sustentável e bem testado
+- Projetei e implementei APIs REST e GraphQL para aplicações web e mobile, integrando serviços de terceiros para pagamentos, autenticação e mensageria
+- Containerizei serviços com Docker e realizei deploys na AWS, melhorando a paridade entre ambientes e reduzindo o tempo de onboarding de novos desenvolvedores
+- Estabeleci padrões de code review e introduzi pipelines de testes automatizados, *reduzindo defeitos em produção e encurtando ciclos de release*
+- Promovido a líder técnico, mentorando engenheiros juniores e coordenando planejamento de sprint, estimativas e entregas com stakeholders de produto
+- Atuei como principal ponto de contato técnico com clientes, traduzindo requisitos de negócio em especificações técnicas e roadmaps claros
 
 #work(
   title: "Engenheiro de Software Fullstack Senior",
@@ -61,7 +74,7 @@
   company: "Turing.com",
   dates: dates-helper(start-date: "Set 2021", end-date: "Ago 2022"),
 )
-- Desenvolvi e gerenciei aplicações web utilizando React, Node.js e MongoDB 
+- Desenvolvi e gerenciei aplicações web utilizando React, Node.js e MongoDB
 - Trabalhei integrado com plataforma CMS para gerenciamento de conteúdo através de uma API GraphQL
 - Colaborei com equipes distribuídas globalmente, participando de revisões de código e garantindo a qualidade do software
 
@@ -71,8 +84,9 @@
   company: "Zoox Smart Data",
   dates: dates-helper(start-date: "Mai 2021", end-date: "Set 2021"),
 )
-- Construi e gerenciei sites em WordPress, garantindo responsividade e experiência amigável ao usuário
-- Desenvolvi paginas de landing e site de marketing como o minima transferência de dados possiveis, utilizando HTML, CSS e JavaScript
+- Construí e gerenciei sites em WordPress, garantindo responsividade e experiência amigável ao usuário
+- Desenvolvi landing pages e sites de marketing com mínima transferência de dados, utilizando HTML, CSS e JavaScript
+- Implementei técnicas de SEO e otimizações de performance mobile-first, *melhorando o tempo de carregamento em 60% e atingindo Lighthouse 97*
 
 == Educação
 
@@ -81,11 +95,12 @@
   location: "Campinas, Brasil",
   dates: dates-helper(start-date: "Jan 2016", end-date: "Dez 2020"),
   degree: "Bacharelado em Engenharia da Computação",
+  gpa: "Média geral: 8.5/10",
 
   // Uncomment the line below if you want edu formatting to be consistent with everything else
   consistent: true
 )
-- Diciplinas Relevantes: Estrutura de Dados, Desenvolvimento de Programas, Microprocessadores, Algebra Linear, Matemática Discreta, Arquitetura de Sistemas, Cybersegurança, Sistemas Embarcados, Sistemas Operacionais, Redes de Computadores, Bancos de Dados, Engenharia de Software, Inteligência Artificial
+- Disciplinas Relevantes: Estrutura de Dados, Desenvolvimento de Programas, Microprocessadores, Álgebra Linear, Matemática Discreta, Arquitetura de Sistemas, Cybersegurança, Sistemas Embarcados, Sistemas Operacionais, Redes de Computadores, Bancos de Dados, Engenharia de Software, Inteligência Artificial
 == Projetos
 
 #project(
@@ -103,13 +118,13 @@
 - Projeto desenvolvido em Go e servido no meu servidor homelab, utilizando Typst e Go Templates para geração dos templetes de impressão
 
 == Habilidades
-- *Linguagens de Programação*: JavaScript, Go, Rust, Python, Bash, HTML/CSS, Elixir, C/C++, R, Flutter, Dart
-- *Tecnologias*: React, Astro, Svelte, Tailwind CSS, Git, UNIX, Docker, N8N, Agentes de IA, NGINX, Amazon Web Services, Google Cloud Platform
+- *Linguagens de Programação*: JavaScript/TypeScript, Go, Python, Bash, HTML/CSS, SQL
+- *Tecnologias*: React, Node.js, Docker, Kubernetes, AWS, GCP, PostgreSQL, MongoDB, GraphQL, Git, NGINX, CI/CD (GitHub Actions), N8N, Agentes de IA
 
 == Idiomas
 #columns(2, gutter: 8pt)[
 		- *Português*: Nativo
-		- *Inglês*: Fluente (TOIC 880/900)
+		- *Inglês*: Fluente (TOEIC 880/990)
 
 		#colbreak()
 

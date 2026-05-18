@@ -46,21 +46,34 @@
   title: "Senior Software Engineer Manager",
   location: "Texas, USA (Remote)",
   company: "AvodahMed",
-  dates: dates-helper(start-date: "Jun 2024", end-date: "Present"),
+  dates: dates-helper(start-date: "Aug 2023", end-date: "Present"),
 )
 - Lead a team of 5 engineers in building scalable healthcare solutions designed to simplify medical billing
 - Architected and developed a microservices infrastructure using Docker and Kubernetes, ensuring high scalability and system reliability
 - Spearheaded the development of a HIPAA-compliant telehealth platform, enhancing remote patient-doctor interactions
-- Optimized backend services, * reducing average response times by 200% * and *improving user satisfaction scores by 40% *
+- Optimized backend services, *cutting average response times by 3x* and *improving user satisfaction scores by 40%*
 - Implemented CI/CD pipelines using GitHub Actions and built internal automation tools, *reducing manual deployment time by 90%*
 - Maintained and modernized legacy code for a healthcare SaaS platform, ensuring ongoing HIPAA compliance
 - Collaborated with cross-functional teams across multiple time zones to define requirements and deliver high-quality features on schedule
 
 #work(
+  title: "Software Engineer / Team Lead",
+  location: "Texas, USA (Remote)",
+  company: "Block Nerds",
+  dates: dates-helper(start-date: "Aug 2022", end-date: "Aug 2023"),
+)
+- Delivered full-stack features across multiple client products using React, Node.js, and PostgreSQL, with a focus on maintainable, well-tested code
+- Designed and shipped REST and GraphQL APIs powering web and mobile clients, integrating third-party services for payments, authentication, and messaging
+- Containerized services with Docker and deployed to AWS, improving environment parity and cutting onboarding setup time for new developers
+- Established code review standards and introduced automated testing pipelines, *reducing production defects and shortening release cycles*
+- Promoted to technical lead, mentoring junior engineers and coordinating sprint planning, estimations, and delivery with product stakeholders
+- Acted as the main technical point of contact with clients, translating business requirements into clear technical specifications and roadmaps
+
+#work(
   title: "Software Engineer",
   location: "Palo Alto, CA (Remote)",
   company: "Turing.com",
-  dates: dates-helper(start-date: "Set 2021", end-date: "Aug 2022"),
+  dates: dates-helper(start-date: "Sep 2021", end-date: "Aug 2022"),
 )
 - Developed and maintained full-stack web applications for various clients using React, Node.js, and MongoDB
 - Integrated with CMS platforms via GraphQL APIs for dynamic content management
@@ -70,7 +83,7 @@
   title: "Mid-Level Fullstack Developer",
   location: "Rio de Janeiro, Brazil (Remote)",
   company: "Zoox Smart Data",
-  dates: dates-helper(start-date: "May 2021", end-date: "Set 2021"),
+  dates: dates-helper(start-date: "May 2021", end-date: "Sep 2021"),
 )
 - Built and maintained responsive, user-friendly WordPress websites for clients across various industries
 - Developed high-performance landing pages and marketing sites with minimal data payload using HTML, CSS, and JavaScript
@@ -82,7 +95,8 @@
   institution: "Pontifícia Universidade Católica de Campinas (PUC-Campinas)",
   location: "Campinas, Brazil",
   dates: dates-helper(start-date: "Jan 2016", end-date: "Dec 2020"),
-  degree: "Bachelor's of Computer Enginneering",
+  degree: "Bachelor's of Computer Engineering",
+  gpa: "Average score: 8.5/10",
 
   // Uncomment the line below if you want edu formatting to be consistent with everything else
   consistent: true
@@ -109,16 +123,16 @@
 - Created and implemented custom templates using Typst and Go templates
 
 == Skills
-- *Programming Languages*: JavaScript, Go, Rust, Python, Bash, HTML/CSS, Elixir, C/C+, R, Flutter, Dart
-- *Technologies*: React, Astro, Svelte, Tailwind CSS, Git, UNIX, Docker, N8N,AI Agents, NGINX, Amazon Web Services, Google Cloud Platform
+- *Programming Languages*: JavaScript/TypeScript, Go, Python, Bash, HTML/CSS, SQL
+- *Technologies*: React, Node.js, Docker, Kubernetes, AWS, GCP, PostgreSQL, MongoDB, GraphQL, Git, NGINX, CI/CD (GitHub Actions), N8N, AI Agents
 
 == Languages
 #columns(2, gutter: 8pt)[
 		- *Portuguese*: Native
-		- *English*: Fluent (TOIC 880/900)
+		- *English*: Fluent (TOEIC 880/990)
 
 		#colbreak()
 
-		- *Spanigh*: Basic
-		- *Franch*: Basic
+		- *Spanish*: Basic
+		- *French*: Basic
 ]
